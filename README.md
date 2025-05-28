@@ -1,9 +1,9 @@
-# Olá, sou Mayck! 👋 ¡Hola!
+# Olá, sou Mayck! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.LdC6qE1B9N4O/giphy.gif" width="60" /> </p>
 
-Estudante de **Engenharia da Computação** | Amante da Música 🎸🎻 | Apreciador do Espanhol 🇪🇸 | Protestante ✝️
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg1OXk0OWdoamtsdW5nNDJ4Y2Zwa2xiejZzdWZrbXZva25pc2s4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="120" /> 
+
+Estudante de **Engenharia da Computação** | Músico 🎸🎻 | Cristão ✝️
 
 ---
 
@@ -11,7 +11,7 @@ Estudante de **Engenharia da Computação** | Amante da Música 🎸🎻 | Aprec
 
 Sou um futuro engenheiro da computação com 18 anos, sempre animado para aprender e construir. A tecnologia é o meu campo de batalha criativo! Gosto de resolver problemas e de transformar ideias em código funcional.
 
-Quando não estou na frente do computador, me dedico à música (sou violinista e guitarrista) e a aprimorar meu espanhol. Minha fé também guia meus princípios e meu propósito.
+Quando não estou na frente do computador, me dedico à música (sou violinista e guitarrista). Minha fé também guia meus princípios e meu propósito.
 
 ---
 
@@ -19,17 +19,30 @@ Quando não estou na frente do computador, me dedico à música (sou violinista 
 
 Você me verá trabalhando com:
 
-**Linguagens:**
+* **Linguagens:** </br>
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-**Frameworks/Bibliotecas:**
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+* **Frameworks/Bibliotecas:** </br>
     ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-**Ferramentas:**
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    
+* **CMS:** </br>
+    ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+* **Ferramentas de Desenvolvimento:** </br>
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-    ---
+    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+
+---
 
 ### ✨ Meus Projetos Destaque
 
