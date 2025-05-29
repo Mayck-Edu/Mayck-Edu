@@ -44,13 +44,6 @@ Você me verá trabalhando com:
 
 ---
 
-### ✨ Meus Projetos Destaque
-
-Aqui você pode encontrar alguns dos meus projetos mais interessantes. Dê uma olhada nos repositórios para ver o código e as demos!
-
-* [Nome do Projeto 1](link-para-o-repo-1) - Uma breve descrição do projeto.
-* [Nome do Projeto 2](link-para-o-repo-2) - Uma breve descrição do projeto.
-* [Nome do Projeto 3](link-para-o-repo-3) - Uma breve descrição do projeto.
 
 ---
 
