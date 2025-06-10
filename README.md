@@ -49,5 +49,5 @@ Você me verá trabalhando com:
 
 ### 🌐 Conecte-se comigo:
 
-* [LinkedIn](https://linkedin.com/in/seu_perfil_linkedin)
-* [Email](mailto:seu.email@exemplo.com)
+* [LinkedIn](https://www.linkedin.com/in/mayck-eduardo-773a68264/)
+* [Email](mailto:mayck22.03@hotmail.com)
